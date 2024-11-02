@@ -1,1 +1,2 @@
-# yocto-singularity-container
+# yocto-build-containers
+Containers for creating a Yocto build environment
